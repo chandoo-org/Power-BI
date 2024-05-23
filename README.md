@@ -5,4 +5,4 @@ Power BI Sample files and demos
 
 👩‍💻 For courses on Power BI visit [my site](https://chandoo.org/wp/power-bi-course/)
 
-!(portfolio-dashboard-screenshot.png)
+![Portfolio Dashboard](portfolio-dashboard-screenshot.png)
