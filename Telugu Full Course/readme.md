@@ -35,8 +35,11 @@
 ## Sample Files:
 
 [📃 Excel Data](https://github.com/chandoo-org/Power-BI/blob/main/Telugu%20Full%20Course/sample-chocolate-shipments-data-all-Apr-2025.xlsx)
+
 [📂 Icons + Background Images](https://github.com/chandoo-org/Power-BI/tree/main/Telugu%20Full%20Course/img)
+
 [📊 Completed Report](https://github.com/chandoo-org/Power-BI/blob/main/Telugu%20Full%20Course/powerbi-demo-1.pbix)
+
 
 ## Power BI Full Course by Chandoo
 
