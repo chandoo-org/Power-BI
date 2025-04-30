@@ -40,7 +40,11 @@
 
 [📊 Completed Report](https://github.com/chandoo-org/Power-BI/blob/main/Telugu%20Full%20Course/powerbi-demo-1.pbix)
 
+### How to Get Power BI?
+
+[Download Power BI Desktop](https://go.microsoft.com/fwlink/?LinkId=2240819&clcid=0x409&culture=en-us&country=us)
 
 ## Power BI Full Course by Chandoo
 
 [🧑‍💻 Power BI Paid Course by Chandoo](https://chandoo.org/wp/power-bi-course/)
+
