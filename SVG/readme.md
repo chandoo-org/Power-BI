@@ -26,10 +26,16 @@ return
 ## Resources:
 
 🧑‍💻 [Completed SVG Report Demo](https://github.com/chandoo-org/Power-BI/blob/c45a9e06e411beddafa4180e0dd172849581ac2f/SVG/svg-examples-chandoo.pbix)
+
 🔢 [Sample Data File](https://github.com/chandoo-org/Power-BI/blob/c45a9e06e411beddafa4180e0dd172849581ac2f/SVG/emp_attendance_data.xlsx)
 
+
 📺 [Video Tutorial](https://www.youtube.com/watch?v=djUyi4oOAEM)
+
 📃 [Blog Article](https://chandoo.org/wp/how-to-svg-dax-measures-power-bi/)
+
 🗃️ [Ready to use SVG Templates](https://kerrykolosko.com/portfolio/)
+
 🎨 [SVG Editor](https://boxy-svg.com/app)
+
 
