@@ -25,7 +25,7 @@ return
 
 ## Resources:
 
-🧑‍💻 [Completed SVG Report Demo](https://github.com/chandoo-org/Power-BI/blob/c45a9e06e411beddafa4180e0dd172849581ac2f/SVG/svg-examples-chandoo.pbix)
+🧑‍💻 [Completed SVG Report PBIX](https://github.com/chandoo-org/Power-BI/blob/c45a9e06e411beddafa4180e0dd172849581ac2f/SVG/svg-examples-chandoo.pbix)
 
 🔢 [Sample Data File](https://github.com/chandoo-org/Power-BI/blob/c45a9e06e411beddafa4180e0dd172849581ac2f/SVG/emp_attendance_data.xlsx)
 
