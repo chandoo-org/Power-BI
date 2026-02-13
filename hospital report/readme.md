@@ -1,6 +1,6 @@
 ## Hospital Report
 
-![Hospital Report - Demp](hospital report/screenshot- 0306.png)
+![Hospital Report - Demp](screenshot- 0306.png)
 
 ### Sample File:
 
