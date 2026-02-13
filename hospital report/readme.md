@@ -1,6 +1,6 @@
 ## Hospital Report
 
-![Hospital Report - Demp](screenshot- 0306.png)
+![Hospital Report - Demo](https://github.com/chandoo-org/Power-BI/blob/e8a72089de5d40808331f92635208feee25a1223/hospital%20report/screenshot-%200306.png)
 
 ### Sample File:
 
