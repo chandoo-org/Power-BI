@@ -1,1 +1,3 @@
-a repository for powerbi hospital report by chandoo
+## Hospital Report
+
+[img hospital report/screenshot- 0306.png]
